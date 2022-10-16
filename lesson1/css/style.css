@@ -1,0 +1,110 @@
+img{
+	height: 30px;
+	width: 30px;
+	margin-top: 10px;
+}
+.head{
+	border: none;
+	background-color: transparent;
+	color: #fff;
+	font-family: Arial Black;
+	margin-top: 10px;
+}
+.shapka{
+	background-color: #0c514c;
+	 opacity: 0.91;
+}
+.logo{
+	color: #fff;
+	font-family: Comic Sans MS;
+	font-style: bolder;
+	font-size: 25px;
+	margin-top: 7px;
+}
+.second{
+ background-color: #12a89d;
+padding-top:120px;
+}
+.sec_text {
+	color: #fff;
+	font-family: Franklin Gothic Medium;
+	font-style: bolder;
+	font-size: 40px;
+	margin-top: 7px;
+}
+.sec_img{
+	width: 130px;
+	height: 130px;
+	margin-top: 50px;
+}
+.img_3{
+	width: 80px;
+	height: 80px;
+	margin-top: 40px;
+}
+.third{
+	background-color: black	
+}
+.text_3{
+	border-left: 3px solid white;
+	color: white;
+	padding-left: 25px;
+	font-family: Impact;
+	font-size: 13px;
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+.head_4,.head_5{
+	font-size: 35px;
+	color: #8ee4e2;
+	text-align: center;
+	border-bottom: 1px solid #6f8380;
+	padding-bottom: 10px;
+}
+.text_4{
+	font-style: italic;
+	font-family: Georgia;
+	font-size: 15px;
+	border-bottom: 1px solid #6f8380;
+	padding-bottom: 20px;
+}
+.start{
+	color: #0df6cf;
+	font-size: 25px;
+}
+.fourth_1{
+	border: 4px solid #4b756e;
+	padding: 30px;
+}
+.img_4{
+  position: relative;
+  margin-top: 50%;
+}
+.text_51{
+	font-size: 27px;
+	color:#227a7b;
+	font-style: bolder;
+	font-family: Impact;
+	text-align: center;
+	margin-top: 60px;
+}
+.text_53{
+	font-size: 25px;
+	color: #10f5e8;
+	font-family: Arial Black;
+	text-align: right;
+}
+.text_52{
+	font-size: 25px;
+	color: #10f5e8;
+	font-style: italic;
+	font-family: Comic Sans MS;
+	text-align: right;
+}
+.enroll{
+	margin-left:37%;
+	margin-top: 50px;
+	background-color: #fb9107;
+	border: 1px solid #fb9107;
+	border-radius: 10px;
+}

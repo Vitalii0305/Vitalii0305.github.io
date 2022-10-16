@@ -1,0 +1,9 @@
+.container-fluid {
+  font-style: 14px;
+  line-height: 1.5;
+  margin: 20px;
+}
+.container-fluid .shapka {
+  background-color: #0c514c;
+  opacity: 0.91;
+}
